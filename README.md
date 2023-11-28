@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# H1 **favorite series**
+### **favorite series**
 1. Our beloved summer
 2. Start up
 3. Hometown cha-cha-cha
